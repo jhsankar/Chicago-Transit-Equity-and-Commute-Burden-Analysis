@@ -14,7 +14,7 @@ This GIS project examines how poverty, transit access, and commute burden inters
 ![Transit Density Map](MAPS/KDE%20Transit%20stops%20Layout.jpg)
 
 ### Cluster Analysis Map
-![Cluster Analysis Map](MAPS/Poverty%20and%20Transit%20Access%20Cluster%20Analysis.jpg)
+![Cluster Analysis Map](MAPS/Poverty%20and%20Transit%20Access%20Cluster.jpg)
 
 ### Commute Burden Map
 ![Commute Burden Map](MAPS/Commute%20Burden%20Layout%20.jpg)
