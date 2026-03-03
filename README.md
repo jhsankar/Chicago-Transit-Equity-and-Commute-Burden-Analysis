@@ -6,15 +6,19 @@ This GIS project examines how poverty, transit access, and commute burden inters
 ## Sample Maps
 
 ### Poverty Choropleth Map
+
 ![Poverty Choropleth Map](MAPS/Choropleth-Poverty-Percentage-Map.jpg)
 
 ### Transit Density Map
+
 ![Transit Density Map](MAPS/Poverty-and-Transit-Access-Cluster.jpg)
 
 ### Cluster Analysis Map
-![Cluster Analysis Map](MAPS/KDE-Transit-Stops-Layout.jpg)
+
+![Cluster Analysis Map](MAPS/KDE-Transit-stops-Layout.jpg)
 
 ### Commute Burden Map
+
 ![Commute Burden Map](MAPS/Commute-Burden-Layout.jpg)
 
 ## Data Sources
